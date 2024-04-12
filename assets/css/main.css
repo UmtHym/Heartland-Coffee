@@ -171,10 +171,10 @@ input, select, textarea {
 		text-transform: uppercase;
 	}
 	.spotlight .content h2,p {
-		color:rgb(38, 51, 59);
+		color:rgb(93, 94, 94);
 	}
 	.inner .features .icon p {
-		color: rgb(220, 215, 199);
+		color: rgba(71, 71, 71, 1);
 	}
 	#banner p{
 		color:#ffffff;
@@ -2497,7 +2497,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #006241;
+			background-color: #ed4933;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2507,7 +2507,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #1a7254 !important;
+				background-color: #ef5e4a !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2573,11 +2573,11 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
+				background-color: rgba(0, 0, 0, 0.060);
 			}
 
 			.features li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
+				background-color: rgba(0, 0, 0, 0.08);
 			}
 
 			.features li:nth-child(3) {
@@ -2614,7 +2614,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #04ff4f;
+				color: #ef5e4a;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2705,6 +2705,7 @@ input, select, textarea {
 			order: 2;
 			max-width: 48em;
 			height: 60%;
+			border
 		}
 
 		.spotlight:nth-child(2n) {
@@ -2990,12 +2991,12 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: rgb(220, 215, 199);
+			background-color: rgb(255, 255, 255);
 			color: #d3d4e4;
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(122, 91, 71, 0.95);
+			background-color: rgba(255, 255, 255, 0.95);
 			color: #d3d4e4;
 		}
 
@@ -3004,7 +3005,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #ffffff;
+				color: #696969;
 			}
 
 			.wrapper.style3 hr {
