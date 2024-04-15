@@ -1,45 +1,28 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Heartland Coffee Website
 
+## About
+This website was created as an example of the services I could provide to a coffee shop, coffee roasting or simply selling company. 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+This repository contains all the files for the site. The current designer and developer of the project is Umit Hayim.
 
-- It's built with components from my Responsive Tools project.
+View project [here](https://heartlandcoffee.netlify.app/).
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+## Details of Application
+This application is a multiple page website including Home page, The Story, The Team and The Contact. In the Home page we are welcomed with following sections:
+-**Banner Section**: This is what the user sees upon first loading of the page. It introduces the user with an animation and in the end with a large view of the coffee shop. 
+-**Vision section**: Second section that 3 small sections information about the brands supplier chioces, sustainability efforts and quaility visions supported with relative images.
+-**Vision section**: Its shows in 4 different small sectiopn the work ethics and the companies core drives for the business.
+-**Contact section**: This section provides the link for business contact information for the user and if is requested, the link to the online shop.
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+## Technologies Used
+Made with **HTML5** and **CSS3**.
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+## What still needs to be done
 
-- A ton of other stuff.
+- [ ] Implement a 'Online Shop' page on website
+- [ ] Refactor in React
+- [ ] Make site's color pallet more compatible with other pages
+   
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+For more information and questions or suggestions fel free to contact the developer Umit Hayim, at [umitbcn@gmail.com](mailto:umitbcn@gmail.com).
