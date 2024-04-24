@@ -174,7 +174,7 @@ input, select, textarea {
 		color:rgb(93, 94, 94);
 	}
 	.inner .features .icon p {
-		color: rgba(71, 71, 71, 1);
+		color: rgb(255, 255, 255);
 	}
 	#banner p{
 		color:#ffffff;
@@ -2996,16 +2996,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(255, 255, 255, 0.95);
+			background-color: #053230;
 			color: #d3d4e4;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
 				color: #ffffff;
 			}
-
+			.wrapper.style3.special.inner ul li h3 > p  {
+				color: #ffffff;
+			}
+			
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #696969;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 hr {
@@ -3029,7 +3032,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #1d242a;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
@@ -3367,7 +3370,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #1d242a;
+		background: #3b4956;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3461,7 +3464,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #49555f;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3618,10 +3621,10 @@ input, select, textarea {
 		}
 
 			#banner h2:before, #banner h2:after {
-				-moz-transition: width 0.85s ease;
-				-webkit-transition: width 0.85s ease;
-				-ms-transition: width 0.85s ease;
-				transition: width 0.85s ease;
+				-moz-transition: width 0.65s ease;
+				-webkit-transition: width 0.65s ease;
+				-ms-transition: width 0.65s ease;
+				transition: width 0.65s ease;
 				-moz-transition-delay: 0.25s;
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
@@ -4007,7 +4010,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #49555f;
 		text-align: center;
 	}
 
@@ -4097,7 +4100,7 @@ body.landing #page-wrapper {
 }
 
 	body.landing #footer {
-		background-color: #1d242a;
+		background-color: #49555f;
 	}
 
 	body.is-mobile.landing #page-wrapper {
