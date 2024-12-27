@@ -8,7 +8,19 @@ This repository contains all the files for the site. The current designer and de
 
 ## Details of Application
 
-This application is a multiple page website including Home page, The Story, The Team and The Contact. In the Home page we are welcomed with following sections: -**Banner Section**: This is what the user sees upon first loading of the page. It introduces the user with an animation and in the end with a large view of the coffee shop. -**Vision section**: Second section that 3 small sections information about the brands supplier chioces, sustainability efforts and quaility visions supported with relative images. -**Vision section**: Its shows in 4 different small sectiopn the work ethics and the companies core drives for the business. -**Contact section**: This section provides the link for business contact information for the user and if is requested, the link to the online shop.
+This application is a multiple page website including Home page, The Story, The Team and The Contact. In the Home page we are welcomed with following sections:
+
+-**Banner Section**: \
+This is what the user sees upon first loading of the page. It introduces the user with an animation and in the end with a large view of the coffee shop.
+
+-**Vision section**: \
+Second section that 3 small sections information about the brands supplier chioces, sustainability efforts and quaility visions supported with relative images.
+
+-**Vision section**: \
+Its shows in 4 different small sectiopn the work ethics and the companies core drives for the business.
+
+-**Contact section**: \
+This section provides the link for business contact information for the user and if is requested, the link to the online shop.
 
 ## Technologies Used
 
